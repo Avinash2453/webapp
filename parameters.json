@@ -15,7 +15,7 @@
             "value": "East US"
         },
         "hostingPlanName": {
-            "value": "ASP-RG-9b52"
+            "value": "ASP-RG-9b51"
         },
         "serverFarmResourceGroup": {
             "value": "RG"
