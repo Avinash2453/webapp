@@ -6,7 +6,7 @@
             "value": "4004ea22-4c90-4cae-9497-df0c6de7588c"
         },
         "resourceGroupName": {
-            "value": "RG"
+            "value": "RG001"
         },
         "name": {
             "value": "Avinash123"
@@ -15,7 +15,7 @@
             "value": "East US"
         },
         "hostingPlanName": {
-            "value": "ASP-RG-9b51"
+            "value": "ASP-RG-9b52"
         },
         "serverFarmResourceGroup": {
             "value": "RG"
